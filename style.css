@@ -90,7 +90,7 @@ body{
 }
 .battleShip-container{
     --width: 4;
-}
+} 
 .battleShip-container-vertical{
     --width: 1;
     --height: 4;
